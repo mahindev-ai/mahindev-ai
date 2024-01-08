@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+I'm María - I'm flutter and backend developer, junior designer and university student. I'm interested in development, moderation and building thriving online communities. I work on random projects in my free time. 
+
+
+[![My Skills](https://skillicons.dev/icons?i=figma,firebase,gcp,git,linux,bash,postman,py,flask,flutter,java,spring,js,html,css&perline=8)](https://skillicons.dev)
 <!--
 **mahindev-ai/mahindev-ai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
